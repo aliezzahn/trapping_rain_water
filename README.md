@@ -1,6 +1,6 @@
 # Trapping Rain Water
 
-This Rust project provides a solution to the "Trapping Rain Water" problem on LeetCode. The problem involves calculating the amount of rainwater that can be trapped between the bars of an elevation map represented by a vector of non-negative integers.
+The problem involves calculating the amount of rainwater that can be trapped between the bars of an elevation map represented by a vector of non-negative integers.
 
 ## Problem Description
 
